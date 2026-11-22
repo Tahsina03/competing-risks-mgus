@@ -1,0 +1,13 @@
+"outcome","model","term","HR","lower","upper","p"
+"PCM","Cause-specific HR","Age (per 10 years)",1.18,1,1.39,0.0508
+"PCM","Cause-specific HR","Male sex",0.99,0.69,1.44,0.979
+"PCM","Cause-specific HR","M-spike (g/dL)",2.42,1.75,3.35,8.74e-08
+"PCM","Subdistribution HR","Age (per 10 years)",0.84,0.76,0.94,0.00263
+"PCM","Subdistribution HR","Male sex",0.81,0.57,1.15,0.236
+"PCM","Subdistribution HR","M-spike (g/dL)",2.43,1.82,3.25,2.29e-09
+"Death","Cause-specific HR","Age (per 10 years)",1.92,1.79,2.06,2.05e-71
+"Death","Cause-specific HR","Male sex",1.48,1.29,1.69,2.68e-08
+"Death","Cause-specific HR","M-spike (g/dL)",0.94,0.83,1.07,0.353
+"Death","Subdistribution HR","Age (per 10 years)",1.8,1.69,1.93,5.61e-67
+"Death","Subdistribution HR","Male sex",1.45,1.29,1.63,9.35e-10
+"Death","Subdistribution HR","M-spike (g/dL)",0.86,0.77,0.95,0.00435
